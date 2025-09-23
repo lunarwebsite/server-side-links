@@ -4,9 +4,4 @@
 "type": "info",
 "duration": 5000
 }
-{
-"message": "Download Links are being Delayed due to Virus False Positives.",
-"type": "info",
-"duration": 7000
-}
 ]
