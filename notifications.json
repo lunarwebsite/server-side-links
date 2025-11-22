@@ -11,6 +11,6 @@
     "type": "warning",
     "duration": 7000,
     "version": "1.2.0",
-    "operator": ">"
+    "operator": "<"
   }
 ]
