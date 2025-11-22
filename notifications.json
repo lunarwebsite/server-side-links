@@ -4,10 +4,8 @@
 "type": "info",
 "duration": 5000
 }
-]
-[
 {
-"message": "test",
+"message": "Test",
 "type": "info",
 "duration": 5000
 }
