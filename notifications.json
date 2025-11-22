@@ -5,3 +5,11 @@
 "duration": 5000
 }
 ]
+[
+{
+"message": "test",
+"type": "info",
+"duration": 5000
+}
+]
+
