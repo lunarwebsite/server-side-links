@@ -9,6 +9,8 @@
   {
     "message": "Update Soon",
     "type": "warning",
-    "duration": 10000 
+    "duration": 7000,
+    "version": "1.2.0",
+    "operator": ">"
   }
 ]
