@@ -2,9 +2,6 @@
 {
 "message": "Welcome to Lunar v1.1.0!",
 "type": "info",
-"duration": 5000,
-"message": "test",
-"type": "info",
 "duration": 5000
 }
 ]
