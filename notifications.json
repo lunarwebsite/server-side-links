@@ -1,12 +1,14 @@
 [
   {
-    "message": "Welcome to Lunar v1.1.0!",
+    "message": "Welcome to Lunar v1.2.0!",
     "type": "info",
-    "duration": 5000
+    "duration": 5000,
+    "version": "1.2.0",
+    "operator": "=="
   },
   {
-    "message": "test",
+    "message": "Update Soon",
     "type": "warning",
-    "duration": 10000
+    "duration": 10000 
   }
 ]
