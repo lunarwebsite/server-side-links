@@ -1,6 +1,7 @@
 {
-  "id": "test",
-  "active": true,
-  "title": "This is a Test of the New Announcement System!",
-  "message": "I hope this works since I spent so much time on this..."
+  "id": "test2",
+  "title": "TEST 2",
+  "message": "Changed some stuff",
+  "version": "1.2.0",
+  "operator": "=="
 }
