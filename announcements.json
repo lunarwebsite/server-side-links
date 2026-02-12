@@ -1,7 +1,7 @@
 {
   "id": "test2",
-  "title": "TEST 2",
-  "message": "Changed some stuff",
+  "title": "Welcome to Lunar!",
+  "message": "Not much I know, but I will add more in the future!",
   "version": "1.2.0",
   "operator": "=="
 }
