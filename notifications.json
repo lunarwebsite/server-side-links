@@ -7,7 +7,7 @@
     "operator": "=="
   },
   {
-    "message": "Please Update Lunar to 1.2.1!",
+    "message": "Please Update Lunar to v1.2.1!",
     "type": "warning",
     "duration": 7000,
     "version": "1.2.0",
