@@ -4,13 +4,13 @@
     "title": "Update Available!",
     "message": "Please update Lunar to Version 1.2.1.",
     "version": "1.2.0",
-    "operator": "=="
+    "operator": "==",
   },
   {
     "id": "2",
     "title": "Welcome to Lunar!",
     "message": "Chat, Music, and AI will come out all in one Update. Yes, this does mean it might take forever for those features to come out.",
     "version": "1.2.1",
-    "operator": "=="
+    "operator": "==",
   }
 ]
