@@ -1,7 +1,14 @@
 {
-  "id": "test2",
-  "title": "Welcome to Lunar!",
-  "message": "Not much I know, but I will add more in the future!",
+  "id": "1",
+  "title": "Update Available!",
+  "message": "Please update Lunar to Version 1.2.1.",
   "version": "1.2.0",
+  "operator": "=="
+},
+{
+  "id": "2",
+  "title": "Welcome to Lunar!",
+  "message": "Chat, Music, and AI will come out all in one Update. Yes, this does mean it might take forever for those features to come out.",
+  "version": "1.2.1",
   "operator": "=="
 }
