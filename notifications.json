@@ -1,9 +1,9 @@
 [
   {
-    "message": "Welcome to Lunar v1.2.0!",
+    "message": "Welcome to Lunar v1.2.1!",
     "type": "info",
     "duration": 5000,
-    "version": "1.2.0",
+    "version": "1.2.1",
     "operator": "=="
   },
   {
